@@ -1,0 +1,3728 @@
+[
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "50548473",
+    "review_id": "1098627141823576694"
+  },
+  {
+    "item": "AC",
+    "sentiment": "positive",
+    "listing_id": "767187984456969074",
+    "review_id": "1232604514545197889"
+  },
+  {
+    "item": "TV",
+    "sentiment": "positive",
+    "listing_id": "783946028015884575",
+    "review_id": "1360952185375379149"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "783946028015884575",
+    "review_id": "1360952185375379149"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "633446280168062966",
+    "review_id": "1343566237130391744"
+  },
+  {
+    "item": "metro",
+    "sentiment": "neutral",
+    "listing_id": "2979386",
+    "review_id": "1427603880270121369"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "2979386",
+    "review_id": "1427603880270121369"
+  },
+  {
+    "item": "sea view",
+    "sentiment": "neutral",
+    "listing_id": "973844590480836540",
+    "review_id": "1356654080140205779"
+  },
+  {
+    "item": "security",
+    "sentiment": "neutral",
+    "listing_id": "13465658",
+    "review_id": "1408057821714297079"
+  },
+  {
+    "item": "reception",
+    "sentiment": "neutral",
+    "listing_id": "13465658",
+    "review_id": "1408057821714297079"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "727330380250303436",
+    "review_id": "1423290592805292988"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "2046481",
+    "review_id": "1150082902322941784"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1071068550311796622",
+    "review_id": "1322527132867999050"
+  },
+  {
+    "item": "appliances",
+    "sentiment": "positive",
+    "listing_id": "1071068550311796622",
+    "review_id": "1322527132867999050"
+  },
+  {
+    "item": "security",
+    "sentiment": "positive",
+    "listing_id": "1003740454753726849",
+    "review_id": "1222467252036306594"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "1131748695005773760",
+    "review_id": "1300808598318630845"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "53794100",
+    "review_id": "1434187280768038245"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1081106746177050540",
+    "review_id": "1150813774531360531"
+  },
+  {
+    "item": "shopping",
+    "sentiment": "neutral",
+    "listing_id": "46070092",
+    "review_id": "1409471724741718568"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "46070092",
+    "review_id": "1409471724741718568"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "2046481",
+    "review_id": "1353690803178202662"
+  },
+  {
+    "item": "bed",
+    "sentiment": "neutral",
+    "listing_id": "824213038635933269",
+    "review_id": "1296443507616964655"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "831977793117270193",
+    "review_id": "1104322520066994139"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "562950486989426910",
+    "review_id": "1099317567289460665"
+  },
+  {
+    "item": "security/concierge 24hrs",
+    "sentiment": "neutral",
+    "listing_id": "621486930505418857",
+    "review_id": "1363089083217919512"
+  },
+  {
+    "item": "portaria 24 horas",
+    "sentiment": "neutral",
+    "listing_id": "792088466817857855",
+    "review_id": "1328363331847276196"
+  },
+  {
+    "item": "ótima localização",
+    "sentiment": "neutral",
+    "listing_id": "767187984456969074",
+    "review_id": "1404384811276839443"
+  },
+  {
+    "item": "zona de bares",
+    "sentiment": "neutral",
+    "listing_id": "825908629292003667",
+    "review_id": "1328276109980376345"
+  },
+  {
+    "item": "praia",
+    "sentiment": "neutral",
+    "listing_id": "1268163484317388917",
+    "review_id": "1337077701668427312"
+  },
+  {
+    "item": "roupa de cama e toalhas",
+    "sentiment": "neutral",
+    "listing_id": "18976998",
+    "review_id": "1347878428093792282"
+  },
+  {
+    "item": "portero",
+    "sentiment": "neutral",
+    "listing_id": "52593654",
+    "review_id": "1125399779691763331"
+  },
+  {
+    "item": "portaria",
+    "sentiment": "neutral",
+    "listing_id": "1127600128813750699",
+    "review_id": "1244300803130122399"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "46887839",
+    "review_id": "1443553819138933107"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "29793947",
+    "review_id": "1317444344801705597"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "1179650719731083020",
+    "review_id": "1449365458006354518"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "50680016",
+    "review_id": "1095660758771256786"
+  },
+  {
+    "item": "condominium",
+    "sentiment": "neutral",
+    "listing_id": "559437367789966887",
+    "review_id": "1332714554979366878"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "neutral",
+    "listing_id": "53794100",
+    "review_id": "1226890252299256990"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "neutral",
+    "listing_id": "18976998",
+    "review_id": "1205831515198285401"
+  },
+  {
+    "item": "shower",
+    "sentiment": "neutral",
+    "listing_id": "1400355118098661467",
+    "review_id": "1404423743665905907"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "1047068995303986666",
+    "review_id": "1248648362282713882"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1230303268358628223",
+    "review_id": "1318159274922293460"
+  },
+  {
+    "item": "washer",
+    "sentiment": "positive",
+    "listing_id": "9940113",
+    "review_id": "1202185698914094882"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "20582977",
+    "review_id": "1373258830937262772"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "positive",
+    "listing_id": "20582977",
+    "review_id": "1373258830937262772"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "589057925428209737",
+    "review_id": "1226169074554835361"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "1302927355250505190",
+    "review_id": "1449333573724749633"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "1050604592912820183",
+    "review_id": "1335619987547898879"
+  },
+  {
+    "item": "doormen",
+    "sentiment": "positive",
+    "listing_id": "5030949",
+    "review_id": "1365343121689166177"
+  },
+  {
+    "item": "cleaning services",
+    "sentiment": "neutral",
+    "listing_id": "37417060",
+    "review_id": "1255090575520784828"
+  },
+  {
+    "item": "rooftop deck",
+    "sentiment": "neutral",
+    "listing_id": "50896770",
+    "review_id": "1147854379890013902"
+  },
+  {
+    "item": "TV",
+    "sentiment": "positive",
+    "listing_id": "871021739573406775",
+    "review_id": "1301524139045264080"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "871021739573406775",
+    "review_id": "1301524139045264080"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "45675155",
+    "review_id": "1381965471787230511"
+  },
+  {
+    "item": "furniture",
+    "sentiment": "neutral",
+    "listing_id": "704370719711616914",
+    "review_id": "1284868094265804000"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "1040628014079518903",
+    "review_id": "1138408365643397729"
+  },
+  {
+    "item": "family",
+    "sentiment": "neutral",
+    "listing_id": "783946028015884575",
+    "review_id": "1339216025983279706"
+  },
+  {
+    "item": "nespresso",
+    "sentiment": "positive",
+    "listing_id": "824213038635933269",
+    "review_id": "1278283493943313076"
+  },
+  {
+    "item": "bedding",
+    "sentiment": "positive",
+    "listing_id": "824213038635933269",
+    "review_id": "1278283493943313076"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "13063480",
+    "review_id": "1271787804450694733"
+  },
+  {
+    "item": "lençóis",
+    "sentiment": "neutral",
+    "listing_id": "1082767852722098827",
+    "review_id": "1317504592094210541"
+  },
+  {
+    "item": "limpeza",
+    "sentiment": "neutral",
+    "listing_id": "1154441917521678961",
+    "review_id": "1292146449489976271"
+  },
+  {
+    "item": "conforto",
+    "sentiment": "neutral",
+    "listing_id": "1154441917521678961",
+    "review_id": "1292146449489976271"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1153165727522296751",
+    "review_id": "1165932608808778547"
+  },
+  {
+    "item": "bed",
+    "sentiment": "positive",
+    "listing_id": "1078950708864199939",
+    "review_id": "1250825153537552875"
+  },
+  {
+    "item": "sofa",
+    "sentiment": "positive",
+    "listing_id": "1078950708864199939",
+    "review_id": "1250825153537552875"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "564589766765544094",
+    "review_id": "1183374716798218640"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "564589766765544094",
+    "review_id": "1183374716798218640"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "positive",
+    "listing_id": "564589766765544094",
+    "review_id": "1183374716798218640"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1252257571596995374",
+    "review_id": "1404444762567743175"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "54159392",
+    "review_id": "1325483411114575788"
+  },
+  {
+    "item": "view",
+    "sentiment": "positive",
+    "listing_id": "1161661012489402214",
+    "review_id": "1208003775397971778"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "53291327",
+    "review_id": "1252182700686489751"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "1349179369932314810",
+    "review_id": "1424768517952100773"
+  },
+  {
+    "item": "view",
+    "sentiment": "neutral",
+    "listing_id": "1131748695005773760",
+    "review_id": "1418969653395142377"
+  },
+  {
+    "item": "view",
+    "sentiment": "neutral",
+    "listing_id": "6638706",
+    "review_id": "1146383843024166948"
+  },
+  {
+    "item": "safe",
+    "sentiment": "neutral",
+    "listing_id": "1007287023235844279",
+    "review_id": "1325468424016288584"
+  },
+  {
+    "item": "view",
+    "sentiment": "neutral",
+    "listing_id": "739862491931356054",
+    "review_id": "1323259205350981225"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "18394276",
+    "review_id": "1068126851088791144"
+  },
+  {
+    "item": "beds",
+    "sentiment": "positive",
+    "listing_id": "1054416076086309273",
+    "review_id": "1089852473916896801"
+  },
+  {
+    "item": "reception",
+    "sentiment": "positive",
+    "listing_id": "47020137",
+    "review_id": "1129725243918551755"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "1290724008449017504",
+    "review_id": "1360913613714333457"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "894016373717262323",
+    "review_id": "1229086044286590661"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "12103437",
+    "review_id": "1074610348115590106"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "12103437",
+    "review_id": "1074610348115590106"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "615063802366237157",
+    "review_id": "1294314276738719755"
+  },
+  {
+    "item": "well equipped",
+    "sentiment": "positive",
+    "listing_id": "1043519009056246100",
+    "review_id": "1423944360595289548"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "33194252",
+    "review_id": "1158065855866102738"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "positive",
+    "listing_id": "54159392",
+    "review_id": "1400110912632227580"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "30037231",
+    "review_id": "1094212731184102969"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "694835085901091497",
+    "review_id": "1252219892846738083"
+  },
+  {
+    "item": "safe",
+    "sentiment": "positive",
+    "listing_id": "51864193",
+    "review_id": "1064549502714393052"
+  },
+  {
+    "item": "24h concierge",
+    "sentiment": "positive",
+    "listing_id": "1132737372824777002",
+    "review_id": "1395043885690910653"
+  },
+  {
+    "item": "sun loungers",
+    "sentiment": "positive",
+    "listing_id": "1168197346156202895",
+    "review_id": "1388452133805807517"
+  },
+  {
+    "item": "garage",
+    "sentiment": "neutral",
+    "listing_id": "1239203909733993548",
+    "review_id": "1359452202157831633"
+  },
+  {
+    "item": "tv",
+    "sentiment": "positive",
+    "listing_id": "1381894267338797999",
+    "review_id": "1450107556211732730"
+  },
+  {
+    "item": "space",
+    "sentiment": "neutral",
+    "listing_id": "858167516909826386",
+    "review_id": "1420378606112280469"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1190213596459888166",
+    "review_id": "1325465465468329131"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1168197346156202895",
+    "review_id": "1317517412703758776"
+  },
+  {
+    "item": "portaria",
+    "sentiment": "neutral",
+    "listing_id": "697953457177662951",
+    "review_id": "1405172147531074294"
+  },
+  {
+    "item": "portaria",
+    "sentiment": "neutral",
+    "listing_id": "41715855",
+    "review_id": "1077602669309539104"
+  },
+  {
+    "item": "imóvel",
+    "sentiment": "neutral",
+    "listing_id": "1084183198096968617",
+    "review_id": "1389183473785757027"
+  },
+  {
+    "item": "comfortable place",
+    "sentiment": "neutral",
+    "listing_id": "766064211995240204",
+    "review_id": "1389173694943606862"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "1239817027886630300",
+    "review_id": "1347147326420816026"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "602811159828756063",
+    "review_id": "1369655102010376329"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "3635901",
+    "review_id": "1292805980391226415"
+  },
+  {
+    "item": "shopping",
+    "sentiment": "neutral",
+    "listing_id": "1583179",
+    "review_id": "1170285078069406900"
+  },
+  {
+    "item": "renovation",
+    "sentiment": "neutral",
+    "listing_id": "904269143463045695",
+    "review_id": "1140585378138166725"
+  },
+  {
+    "item": "decor",
+    "sentiment": "neutral",
+    "listing_id": "904269143463045695",
+    "review_id": "1140585378138166725"
+  },
+  {
+    "item": "late check-in",
+    "sentiment": "neutral",
+    "listing_id": "46816602",
+    "review_id": "1408826295798709618"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "867950919074162449",
+    "review_id": "1418875885302832162"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "820231364938973407",
+    "review_id": "1332731301828819493"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "820231364938973407",
+    "review_id": "1332731301828819493"
+  },
+  {
+    "item": "Smart Fit",
+    "sentiment": "neutral",
+    "listing_id": "1179650719731083020",
+    "review_id": "1248598801275891375"
+  },
+  {
+    "item": "bar",
+    "sentiment": "neutral",
+    "listing_id": "1083298582916944087",
+    "review_id": "1347961166515626295"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "1031047771466155391",
+    "review_id": "1384096586969445001"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "1273132487074881219",
+    "review_id": "1292054285615727287"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "1312202268367694069",
+    "review_id": "1363067176228744017"
+  },
+  {
+    "item": "stairs",
+    "sentiment": "neutral",
+    "listing_id": "51082059",
+    "review_id": "1125344568531762516"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "727330380250303436",
+    "review_id": "1273994149481186882"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "1018035206926147728",
+    "review_id": "1370414949087863680"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "47559375",
+    "review_id": "1272553047908740704"
+  },
+  {
+    "item": "electricity",
+    "sentiment": "negative",
+    "listing_id": "726018205757528456",
+    "review_id": "1286999200289928394"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "802952211269657980",
+    "review_id": "1326829406642175760"
+  },
+  {
+    "item": "home",
+    "sentiment": "neutral",
+    "listing_id": "31873767",
+    "review_id": "1267413745899833682"
+  },
+  {
+    "item": "things needed",
+    "sentiment": "neutral",
+    "listing_id": "1305895157825039494",
+    "review_id": "1363074829479664270"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "neutral",
+    "listing_id": "1039125047172866740",
+    "review_id": "1447212234087251448"
+  },
+  {
+    "item": "comfortable bed",
+    "sentiment": "neutral",
+    "listing_id": "1354472276785355364",
+    "review_id": "1398665722412014261"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "16910742",
+    "review_id": "1297908233506576569"
+  },
+  {
+    "item": "24-hour reception",
+    "sentiment": "positive",
+    "listing_id": "766064211995240204",
+    "review_id": "1181214569882460918"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "1042162585081274067",
+    "review_id": "1068168855991294715"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "1358949029983120962",
+    "review_id": "1438484558523843021"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "895104849654486475",
+    "review_id": "1308039482178304953"
+  },
+  {
+    "item": "appliances",
+    "sentiment": "positive",
+    "listing_id": "895104849654486475",
+    "review_id": "1308039482178304953"
+  },
+  {
+    "item": "patio",
+    "sentiment": "positive",
+    "listing_id": "52803165",
+    "review_id": "1161675524028169277"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "50769247",
+    "review_id": "1393612739315681587"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1290724008449017504",
+    "review_id": "1390688962644200632"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "1290724008449017504",
+    "review_id": "1390688962644200632"
+  },
+  {
+    "item": "amenities",
+    "sentiment": "neutral",
+    "listing_id": "21883631",
+    "review_id": "1204402616665343018"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "821198084644106078",
+    "review_id": "1230446931335647974"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "neutral",
+    "listing_id": "32257460",
+    "review_id": "1089137460246660029"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1039845035969175657",
+    "review_id": "1102960991708386347"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "16036940",
+    "review_id": "1408797189443724953"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "16036940",
+    "review_id": "1408797189443724953"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "neutral",
+    "listing_id": "1058015599813318449",
+    "review_id": "1370420050836338426"
+  },
+  {
+    "item": "close to shopping mall",
+    "sentiment": "neutral",
+    "listing_id": "18394276",
+    "review_id": "1338419354308245793"
+  },
+  {
+    "item": "good condition",
+    "sentiment": "neutral",
+    "listing_id": "53037382",
+    "review_id": "1204394108507824534"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "neutral",
+    "listing_id": "786113503040795062",
+    "review_id": "1094275781346202065"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "30131285",
+    "review_id": "1385562468353731570"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "793433538025875867",
+    "review_id": "1351578688738239438"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "53788377",
+    "review_id": "1272472515255928892"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1086353210661368514",
+    "review_id": "1226850774595947078"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "1086353210661368514",
+    "review_id": "1226850774595947078"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1361724083742068499",
+    "review_id": "1415282960192555880"
+  },
+  {
+    "item": "cafeteira",
+    "sentiment": "neutral",
+    "listing_id": "867950919074162449",
+    "review_id": "1362340458423699899"
+  },
+  {
+    "item": "airfryer",
+    "sentiment": "neutral",
+    "listing_id": "867950919074162449",
+    "review_id": "1362340458423699899"
+  },
+  {
+    "item": "microondas",
+    "sentiment": "neutral",
+    "listing_id": "867950919074162449",
+    "review_id": "1362340458423699899"
+  },
+  {
+    "item": "frigobar",
+    "sentiment": "neutral",
+    "listing_id": "867950919074162449",
+    "review_id": "1362340458423699899"
+  },
+  {
+    "item": "showers",
+    "sentiment": "positive",
+    "listing_id": "708698211966815661",
+    "review_id": "1091320594673353497"
+  },
+  {
+    "item": "faucets",
+    "sentiment": "positive",
+    "listing_id": "708698211966815661",
+    "review_id": "1091320594673353497"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "708698211966815661",
+    "review_id": "1091320594673353497"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1105899425133231011",
+    "review_id": "1392135440410662922"
+  },
+  {
+    "item": "AC",
+    "sentiment": "positive",
+    "listing_id": "1049346139516039208",
+    "review_id": "1087756529743903505"
+  },
+  {
+    "item": "restaurants",
+    "sentiment": "positive",
+    "listing_id": "1049346139516039208",
+    "review_id": "1087756529743903505"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "661588193693938189",
+    "review_id": "1375491955357894752"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "1080685042034312434",
+    "review_id": "1413908885796262304"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "16910742",
+    "review_id": "1404375339215642392"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "16910742",
+    "review_id": "1404375339215642392"
+  },
+  {
+    "item": "bar",
+    "sentiment": "neutral",
+    "listing_id": "820895398434630001",
+    "review_id": "1350075569036718282"
+  },
+  {
+    "item": "location",
+    "sentiment": "neutral",
+    "listing_id": "1170466584262258476",
+    "review_id": "1416815442719136295"
+  },
+  {
+    "item": "location",
+    "sentiment": "neutral",
+    "listing_id": "40130606",
+    "review_id": "1094954420251062524"
+  },
+  {
+    "item": "location",
+    "sentiment": "neutral",
+    "listing_id": "812914760304084694",
+    "review_id": "1363875615728855551"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "699999717114624689",
+    "review_id": "1247217100580240313"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "579775526986045338",
+    "review_id": "1179034337057270520"
+  },
+  {
+    "item": "washer",
+    "sentiment": "positive",
+    "listing_id": "53942584",
+    "review_id": "1377653058924556935"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "54159392",
+    "review_id": "1378308693042162871"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "54159392",
+    "review_id": "1378308693042162871"
+  },
+  {
+    "item": "view",
+    "sentiment": "neutral",
+    "listing_id": "801727062648427426",
+    "review_id": "1226193409884236181"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "1153165727522296751",
+    "review_id": "1160937015138673116"
+  },
+  {
+    "item": "TV",
+    "sentiment": "negative",
+    "listing_id": "50326489",
+    "review_id": "1439170690574431382"
+  },
+  {
+    "item": "elevator",
+    "sentiment": "negative",
+    "listing_id": "708698211966815661",
+    "review_id": "1422521794635782802"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "negative",
+    "listing_id": "33194252",
+    "review_id": "1440718018065133233"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "50680016",
+    "review_id": "1373983282982284675"
+  },
+  {
+    "item": "AC",
+    "sentiment": "neutral",
+    "listing_id": "826214112602195038",
+    "review_id": "1388535076859128303"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "720654",
+    "review_id": "1403681231899974977"
+  },
+  {
+    "item": "spacious",
+    "sentiment": "neutral",
+    "listing_id": "1373105607605411409",
+    "review_id": "1418916731606320471"
+  },
+  {
+    "item": "well equipped",
+    "sentiment": "positive",
+    "listing_id": "779111312363325717",
+    "review_id": "1068122475513334002"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "779111312363325717",
+    "review_id": "1068122475513334002"
+  },
+  {
+    "item": "small shower",
+    "sentiment": "negative",
+    "listing_id": "1350248564966040619",
+    "review_id": "1386357727215042105"
+  },
+  {
+    "item": "washer",
+    "sentiment": "positive",
+    "listing_id": "1052921559180982656",
+    "review_id": "1281268827868040100"
+  },
+  {
+    "item": "dryer",
+    "sentiment": "positive",
+    "listing_id": "1052921559180982656",
+    "review_id": "1281268827868040100"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1339412984623025334",
+    "review_id": "1349324977826917507"
+  },
+  {
+    "item": "supermarket",
+    "sentiment": "positive",
+    "listing_id": "37686479",
+    "review_id": "1380564708481524237"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "37686479",
+    "review_id": "1380564708481524237"
+  },
+  {
+    "item": "security",
+    "sentiment": "neutral",
+    "listing_id": "52470694",
+    "review_id": "1409525634231779733"
+  },
+  {
+    "item": "bed sheets",
+    "sentiment": "neutral",
+    "listing_id": "11450368",
+    "review_id": "1376850241686806138"
+  },
+  {
+    "item": "pillows",
+    "sentiment": "neutral",
+    "listing_id": "900676457210746325",
+    "review_id": "1398596310396395309"
+  },
+  {
+    "item": "pool",
+    "sentiment": "neutral",
+    "listing_id": "625003654261726623",
+    "review_id": "1100036362280455401"
+  },
+  {
+    "item": "grill",
+    "sentiment": "neutral",
+    "listing_id": "625003654261726623",
+    "review_id": "1100036362280455401"
+  },
+  {
+    "item": "secure building",
+    "sentiment": "neutral",
+    "listing_id": "10177444",
+    "review_id": "1323313270411068395"
+  },
+  {
+    "item": "equipped kitchen",
+    "sentiment": "neutral",
+    "listing_id": "4891376",
+    "review_id": "1201504534586219907"
+  },
+  {
+    "item": "spacious",
+    "sentiment": "neutral",
+    "listing_id": "4891376",
+    "review_id": "1201504534586219907"
+  },
+  {
+    "item": "central location",
+    "sentiment": "neutral",
+    "listing_id": "867950919074162449",
+    "review_id": "1228355412029647260"
+  },
+  {
+    "item": "safe",
+    "sentiment": "neutral",
+    "listing_id": "867950919074162449",
+    "review_id": "1228355412029647260"
+  },
+  {
+    "item": "conforto",
+    "sentiment": "neutral",
+    "listing_id": "53011419",
+    "review_id": "1090589345221841020"
+  },
+  {
+    "item": "bedding",
+    "sentiment": "positive",
+    "listing_id": "1244278751131062499",
+    "review_id": "1268135413590587673"
+  },
+  {
+    "item": "tv",
+    "sentiment": "positive",
+    "listing_id": "39628303",
+    "review_id": "1445010616621681776"
+  },
+  {
+    "item": "quiet location",
+    "sentiment": "neutral",
+    "listing_id": "9095057",
+    "review_id": "1091365449177644430"
+  },
+  {
+    "item": "equipped",
+    "sentiment": "neutral",
+    "listing_id": "853555204696666938",
+    "review_id": "1450070318749706306"
+  },
+  {
+    "item": "well-located",
+    "sentiment": "neutral",
+    "listing_id": "1018758710199629618",
+    "review_id": "1388541855207859859"
+  },
+  {
+    "item": "as depicted in the pictures",
+    "sentiment": "neutral",
+    "listing_id": "1005760627133044646",
+    "review_id": "1305190011878336239"
+  },
+  {
+    "item": "easy to cross the street",
+    "sentiment": "neutral",
+    "listing_id": "47290185",
+    "review_id": "1310187916509143448"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "977619997762599679",
+    "review_id": "1168910740914356053"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "neutral",
+    "listing_id": "17155878",
+    "review_id": "1140659743642230904"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "neutral",
+    "listing_id": "1011009760124241961",
+    "review_id": "1327628020016017934"
+  },
+  {
+    "item": "modern and cozy space",
+    "sentiment": "neutral",
+    "listing_id": "39418886",
+    "review_id": "1257271742964163319"
+  },
+  {
+    "item": "soft bed",
+    "sentiment": "neutral",
+    "listing_id": "1230303268358628223",
+    "review_id": "1257290485597200684"
+  },
+  {
+    "item": "easy access to beach",
+    "sentiment": "neutral",
+    "listing_id": "825908629292003667",
+    "review_id": "1225437774607865826"
+  },
+  {
+    "item": "many gastronomic options",
+    "sentiment": "neutral",
+    "listing_id": "11671466",
+    "review_id": "1271850921647979051"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "30346861",
+    "review_id": "1099318833245026898"
+  },
+  {
+    "item": "tv",
+    "sentiment": "positive",
+    "listing_id": "30346861",
+    "review_id": "1099318833245026898"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1215717",
+    "review_id": "1226809582298177079"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "positive",
+    "listing_id": "40369352",
+    "review_id": "1342105951901576676"
+  },
+  {
+    "item": "bed",
+    "sentiment": "positive",
+    "listing_id": "29793947",
+    "review_id": "1337746735102392009"
+  },
+  {
+    "item": "parking",
+    "sentiment": "neutral",
+    "listing_id": "658637182862152194",
+    "review_id": "1084105868281848627"
+  },
+  {
+    "item": "security",
+    "sentiment": "neutral",
+    "listing_id": "658637182862152194",
+    "review_id": "1084105868281848627"
+  },
+  {
+    "item": "functional",
+    "sentiment": "neutral",
+    "listing_id": "37686479",
+    "review_id": "1427618377319927707"
+  },
+  {
+    "item": "cleaning",
+    "sentiment": "neutral",
+    "listing_id": "1583179",
+    "review_id": "1208077962573870943"
+  },
+  {
+    "item": "concierge",
+    "sentiment": "neutral",
+    "listing_id": "1583179",
+    "review_id": "1208077962573870943"
+  },
+  {
+    "item": "view",
+    "sentiment": "neutral",
+    "listing_id": "1139293868303153121",
+    "review_id": "1332675452419673299"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "698679726224949716",
+    "review_id": "1084063990961870444"
+  },
+  {
+    "item": "tv",
+    "sentiment": "positive",
+    "listing_id": "698679726224949716",
+    "review_id": "1084063990961870444"
+  },
+  {
+    "item": "shower",
+    "sentiment": "positive",
+    "listing_id": "698679726224949716",
+    "review_id": "1084063990961870444"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "675904945970446221",
+    "review_id": "1353676326199015709"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "593130823509148996",
+    "review_id": "1372528634362047905"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "2487809",
+    "review_id": "1363790513194651845"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "998752298627800948",
+    "review_id": "1137709601060863460"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1074511896897271969",
+    "review_id": "1088425816040386605"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1084142106927112217",
+    "review_id": "1320383713282460871"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1084142106927112217",
+    "review_id": "1320383713282460871"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "994361991925657157",
+    "review_id": "1394256903278942716"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1110231823432040396",
+    "review_id": "1345672279213220360"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "961838483775190762",
+    "review_id": "1203664122712754259"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "1057398537262932972",
+    "review_id": "1352985168653589494"
+  },
+  {
+    "item": "bedding",
+    "sentiment": "positive",
+    "listing_id": "1154441917521678961",
+    "review_id": "1424051450682240035"
+  },
+  {
+    "item": "bed",
+    "sentiment": "positive",
+    "listing_id": "584034938955469245",
+    "review_id": "1363819891921859064"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "53738927",
+    "review_id": "1160942526160601585"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "positive",
+    "listing_id": "53738927",
+    "review_id": "1160942526160601585"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "31873767",
+    "review_id": "1253695177745487001"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "950913639809555676",
+    "review_id": "1365323403409320845"
+  },
+  {
+    "item": "supermarkets",
+    "sentiment": "neutral",
+    "listing_id": "706652472228582800",
+    "review_id": "1091293929469366905"
+  },
+  {
+    "item": "24h doorman",
+    "sentiment": "neutral",
+    "listing_id": "6503046",
+    "review_id": "1164533828773631330"
+  },
+  {
+    "item": "bed",
+    "sentiment": "neutral",
+    "listing_id": "1034258734785951273",
+    "review_id": "1078980808797141626"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "1202377674961207523",
+    "review_id": "1281167583334045760"
+  },
+  {
+    "item": "spacious",
+    "sentiment": "neutral",
+    "listing_id": "939718977651131879",
+    "review_id": "1342107188313306631"
+  },
+  {
+    "item": "spotless",
+    "sentiment": "neutral",
+    "listing_id": "939718977651131879",
+    "review_id": "1342107188313306631"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "31430914",
+    "review_id": "1377623620297120631"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "6638706",
+    "review_id": "1408032511595016600"
+  },
+  {
+    "item": "calm",
+    "sentiment": "positive",
+    "listing_id": "923261030213572157",
+    "review_id": "1143519615391812387"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "923261030213572157",
+    "review_id": "1143519615391812387"
+  },
+  {
+    "item": "equipado",
+    "sentiment": "positive",
+    "listing_id": "686913684112519572",
+    "review_id": "1252231080216325120"
+  },
+  {
+    "item": "segurança",
+    "sentiment": "positive",
+    "listing_id": "1335658779673387902",
+    "review_id": "1415307039358867216"
+  },
+  {
+    "item": "piscina",
+    "sentiment": "positive",
+    "listing_id": "1335658779673387902",
+    "review_id": "1415307039358867216"
+  },
+  {
+    "item": "academia",
+    "sentiment": "positive",
+    "listing_id": "1335658779673387902",
+    "review_id": "1415307039358867216"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1100645471783963727",
+    "review_id": "1289899763565600429"
+  },
+  {
+    "item": "shopping",
+    "sentiment": "neutral",
+    "listing_id": "22709688",
+    "review_id": "1266668023752078468"
+  },
+  {
+    "item": "supermarket",
+    "sentiment": "neutral",
+    "listing_id": "340432",
+    "review_id": "1126800991901929423"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "52803165",
+    "review_id": "1130485304296685503"
+  },
+  {
+    "item": "pool",
+    "sentiment": "neutral",
+    "listing_id": "1364013494843735032",
+    "review_id": "1395057044165848034"
+  },
+  {
+    "item": "view",
+    "sentiment": "positive",
+    "listing_id": "47221165",
+    "review_id": "1205841373149250484"
+  },
+  {
+    "item": "beds",
+    "sentiment": "positive",
+    "listing_id": "22709688",
+    "review_id": "1154373056497265189"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "22709688",
+    "review_id": "1154373056497265189"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "13747448",
+    "review_id": "1289192563493619465"
+  },
+  {
+    "item": "amenities",
+    "sentiment": "positive",
+    "listing_id": "1291378872433740759",
+    "review_id": "1302212492598024171"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1313114997927377775",
+    "review_id": "1332707242248677902"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "793433538025875867",
+    "review_id": "1330471075088877143"
+  },
+  {
+    "item": "bed",
+    "sentiment": "positive",
+    "listing_id": "793433538025875867",
+    "review_id": "1330471075088877143"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "826114598873743027",
+    "review_id": "1150068624717733111"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "826114598873743027",
+    "review_id": "1150068624717733111"
+  },
+  {
+    "item": "cleaning",
+    "sentiment": "positive",
+    "listing_id": "1056631793577567108",
+    "review_id": "1112357979152208847"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "8716271",
+    "review_id": "1392843323305824023"
+  },
+  {
+    "item": "terrace",
+    "sentiment": "positive",
+    "listing_id": "8716271",
+    "review_id": "1392843323305824023"
+  },
+  {
+    "item": "bbq",
+    "sentiment": "positive",
+    "listing_id": "8716271",
+    "review_id": "1392843323305824023"
+  },
+  {
+    "item": "washer",
+    "sentiment": "positive",
+    "listing_id": "867950919074162449",
+    "review_id": "1358031008213563503"
+  },
+  {
+    "item": "dryer",
+    "sentiment": "positive",
+    "listing_id": "867950919074162449",
+    "review_id": "1358031008213563503"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "787679488410194577",
+    "review_id": "1356609563908050003"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "53790013",
+    "review_id": "1323976996159121154"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "16826772",
+    "review_id": "1238434813118707271"
+  },
+  {
+    "item": "metro",
+    "sentiment": "positive",
+    "listing_id": "51082059",
+    "review_id": "1195734625029690502"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "positive",
+    "listing_id": "51082059",
+    "review_id": "1195734625029690502"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "721535100933173696",
+    "review_id": "1256554457962814365"
+  },
+  {
+    "item": "climatizado",
+    "sentiment": "positive",
+    "listing_id": "598691166003421565",
+    "review_id": "1069608679584028138"
+  },
+  {
+    "item": "utensílios",
+    "sentiment": "positive",
+    "listing_id": "598691166003421565",
+    "review_id": "1069608679584028138"
+  },
+  {
+    "item": "spacious",
+    "sentiment": "neutral",
+    "listing_id": "1283971844356587295",
+    "review_id": "1396447726651991942"
+  },
+  {
+    "item": "everything we needed",
+    "sentiment": "neutral",
+    "listing_id": "814607569389282394",
+    "review_id": "1110223721912879199"
+  },
+  {
+    "item": "modern furniture",
+    "sentiment": "neutral",
+    "listing_id": "994361991925657157",
+    "review_id": "1143497366329950959"
+  },
+  {
+    "item": "good parking",
+    "sentiment": "neutral",
+    "listing_id": "994361991925657157",
+    "review_id": "1143497366329950959"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "836748813801113044",
+    "review_id": "1190592736528556586"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "784428782409157518",
+    "review_id": "1333465647545759640"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "50680016",
+    "review_id": "1134766071239139653"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "829031885152920018",
+    "review_id": "1226129559066718267"
+  },
+  {
+    "item": "doorman",
+    "sentiment": "positive",
+    "listing_id": "918121103176049705",
+    "review_id": "1086200896935305025"
+  },
+  {
+    "item": "tv",
+    "sentiment": "positive",
+    "listing_id": "736952993795767776",
+    "review_id": "1424777750136709835"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "736952993795767776",
+    "review_id": "1424777750136709835"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "736952993795767776",
+    "review_id": "1424777750136709835"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1357399222869460268",
+    "review_id": "1418966067849387578"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "801727062648427426",
+    "review_id": "1082671461823351834"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "14019556",
+    "review_id": "1073207526769708857"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "28891602",
+    "review_id": "1133384559961903516"
+  },
+  {
+    "item": "well equipped",
+    "sentiment": "neutral",
+    "listing_id": "1050060647508016537",
+    "review_id": "1439238748659546551"
+  },
+  {
+    "item": "comfortable",
+    "sentiment": "neutral",
+    "listing_id": "37686479",
+    "review_id": "1255131431782061035"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1239203909733993548",
+    "review_id": "1439198812190370833"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "624069873590659559",
+    "review_id": "1323230468792442969"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "positive",
+    "listing_id": "624069873590659559",
+    "review_id": "1323230468792442969"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "1387536016092891951",
+    "review_id": "1413857494687229545"
+  },
+  {
+    "item": "market",
+    "sentiment": "neutral",
+    "listing_id": "779111312363325717",
+    "review_id": "1326838182906002526"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "923409",
+    "review_id": "1362378842883977709"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "1274708432370925501",
+    "review_id": "1364527620715315498"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "1274708432370925501",
+    "review_id": "1364527620715315498"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "45675155",
+    "review_id": "1335606582459830840"
+  },
+  {
+    "item": "building",
+    "sentiment": "neutral",
+    "listing_id": "1239751052661568527",
+    "review_id": "1422598207729518787"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "817077326439570880",
+    "review_id": "1255134974759457804"
+  },
+  {
+    "item": "bright",
+    "sentiment": "neutral",
+    "listing_id": "1332212949969356554",
+    "review_id": "1374714656671819946"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "1215717",
+    "review_id": "1315342518520982656"
+  },
+  {
+    "item": "cozy",
+    "sentiment": "neutral",
+    "listing_id": "30814378",
+    "review_id": "1397926363559529135"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1008667182513081714",
+    "review_id": "1318862372118349150"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "853555204696666938",
+    "review_id": "1457367167320128736"
+  },
+  {
+    "item": "view",
+    "sentiment": "positive",
+    "listing_id": "1031772295738265495",
+    "review_id": "1118164512223719880"
+  },
+  {
+    "item": "functional",
+    "sentiment": "positive",
+    "listing_id": "34203892",
+    "review_id": "1374030777333842281"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "658637182862152194",
+    "review_id": "1297152277139770356"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "977693040653776100",
+    "review_id": "1234161767161193285"
+  },
+  {
+    "item": "flexible check-in/check-out",
+    "sentiment": "neutral",
+    "listing_id": "997559946164068295",
+    "review_id": "1216689254479166791"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "1152162775668925911",
+    "review_id": "1319583377457312924"
+  },
+  {
+    "item": "shower",
+    "sentiment": "positive",
+    "listing_id": "1081106746177050540",
+    "review_id": "1335548060183537749"
+  },
+  {
+    "item": "amenities",
+    "sentiment": "neutral",
+    "listing_id": "837664757190068912",
+    "review_id": "1313087248496446520"
+  },
+  {
+    "item": "amenities",
+    "sentiment": "positive",
+    "listing_id": "52059660",
+    "review_id": "1135505401599322169"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "2046481",
+    "review_id": "1099349197825795082"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "793433538025875867",
+    "review_id": "1266728057167749363"
+  },
+  {
+    "item": "well-decorated",
+    "sentiment": "neutral",
+    "listing_id": "793433538025875867",
+    "review_id": "1266728057167749363"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "54159392",
+    "review_id": "1116032468950831974"
+  },
+  {
+    "item": "24h reception",
+    "sentiment": "positive",
+    "listing_id": "10363406",
+    "review_id": "1199368702425747063"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1078268117448240459",
+    "review_id": "1226897307049853765"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1295834994335547599",
+    "review_id": "1335631932206515060"
+  },
+  {
+    "item": "shower",
+    "sentiment": "positive",
+    "listing_id": "1007287023235844279",
+    "review_id": "1200062755072311902"
+  },
+  {
+    "item": "all amenities",
+    "sentiment": "neutral",
+    "listing_id": "2155838",
+    "review_id": "1371148553495790731"
+  },
+  {
+    "item": "metro",
+    "sentiment": "neutral",
+    "listing_id": "903042635150626521",
+    "review_id": "1405155442099940522"
+  },
+  {
+    "item": "bikeit",
+    "sentiment": "neutral",
+    "listing_id": "903042635150626521",
+    "review_id": "1405155442099940522"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "neutral",
+    "listing_id": "50548473",
+    "review_id": "1091301452256795172"
+  },
+  {
+    "item": "spacious",
+    "sentiment": "neutral",
+    "listing_id": "2155838",
+    "review_id": "1414561404576309481"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "1040665244788418078",
+    "review_id": "1134868036763748385"
+  },
+  {
+    "item": "fully equipped",
+    "sentiment": "neutral",
+    "listing_id": "1303113842496058105",
+    "review_id": "1336295122798813561"
+  },
+  {
+    "item": "pool",
+    "sentiment": "neutral",
+    "listing_id": "609019",
+    "review_id": "1353752160991856719"
+  },
+  {
+    "item": "24-hour security",
+    "sentiment": "neutral",
+    "listing_id": "1211712799555252231",
+    "review_id": "1450094480593314408"
+  },
+  {
+    "item": "keyless entry",
+    "sentiment": "neutral",
+    "listing_id": "1211712799555252231",
+    "review_id": "1450094480593314408"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "13465658",
+    "review_id": "1363812259270276499"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "13465658",
+    "review_id": "1363812259270276499"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "720098375732227610",
+    "review_id": "1357317710945277004"
+  },
+  {
+    "item": "metro",
+    "sentiment": "positive",
+    "listing_id": "1084142106927112217",
+    "review_id": "1292044754391681252"
+  },
+  {
+    "item": "japanese restaurant",
+    "sentiment": "positive",
+    "listing_id": "47559375",
+    "review_id": "1262348623678749346"
+  },
+  {
+    "item": "everything",
+    "sentiment": "positive",
+    "listing_id": "918157831330558142",
+    "review_id": "1076063139713985665"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "783330131421377939",
+    "review_id": "1388505305454320825"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "53794100",
+    "review_id": "1302257742328099315"
+  },
+  {
+    "item": "metro",
+    "sentiment": "positive",
+    "listing_id": "589057925428209737",
+    "review_id": "1395680737737546861"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "589057925428209737",
+    "review_id": "1395680737737546861"
+  },
+  {
+    "item": "shopping",
+    "sentiment": "positive",
+    "listing_id": "42190018",
+    "review_id": "1347875183105872598"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "42190018",
+    "review_id": "1347875183105872598"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "13604842",
+    "review_id": "1124692555755496263"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "958716221431254520",
+    "review_id": "1392820185316149370"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "1328360096316593414",
+    "review_id": "1416801432436180538"
+  },
+  {
+    "item": "apartment",
+    "sentiment": "neutral",
+    "listing_id": "19474988",
+    "review_id": "1226093832734398480"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "31903130",
+    "review_id": "1073926934412387717"
+  },
+  {
+    "item": "furniture",
+    "sentiment": "positive",
+    "listing_id": "1089049722687291522",
+    "review_id": "1449313294659411167"
+  },
+  {
+    "item": "appliances",
+    "sentiment": "positive",
+    "listing_id": "1089049722687291522",
+    "review_id": "1449313294659411167"
+  },
+  {
+    "item": "linens",
+    "sentiment": "positive",
+    "listing_id": "23024700",
+    "review_id": "1292824067383818037"
+  },
+  {
+    "item": "restaurants",
+    "sentiment": "positive",
+    "listing_id": "12103437",
+    "review_id": "1373947810533828512"
+  },
+  {
+    "item": "playa",
+    "sentiment": "positive",
+    "listing_id": "12103437",
+    "review_id": "1373947810533828512"
+  },
+  {
+    "item": "everything you need",
+    "sentiment": "neutral",
+    "listing_id": "896964822337976124",
+    "review_id": "1375501610800813735"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "1139641547577362255",
+    "review_id": "1331991147974689572"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "980567880892138382",
+    "review_id": "1153631934917612027"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1290742665533569110",
+    "review_id": "1356635343501661584"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1290742665533569110",
+    "review_id": "1356635343501661584"
+  },
+  {
+    "item": "garage",
+    "sentiment": "negative",
+    "listing_id": "1365339579783724947",
+    "review_id": "1402291209044895564"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "50680016",
+    "review_id": "1358784640625987745"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "609523001626077744",
+    "review_id": "1129756964217584605"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "43495266",
+    "review_id": "1379829256233576700"
+  },
+  {
+    "item": "restaurants",
+    "sentiment": "neutral",
+    "listing_id": "1153165727522296751",
+    "review_id": "1287056808361091411"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "negative",
+    "listing_id": "50178344",
+    "review_id": "1380561582773530250"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1289205500104473384",
+    "review_id": "1336338852793073283"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "992799716841042736",
+    "review_id": "1216695425566467721"
+  },
+  {
+    "item": "appliances",
+    "sentiment": "positive",
+    "listing_id": "992799716841042736",
+    "review_id": "1216695425566467721"
+  },
+  {
+    "item": "reception",
+    "sentiment": "neutral",
+    "listing_id": "780458948131257952",
+    "review_id": "1382008818636498625"
+  },
+  {
+    "item": "cleanliness",
+    "sentiment": "neutral",
+    "listing_id": "1214589846333859028",
+    "review_id": "1328282497196858706"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "1101549268515701297",
+    "review_id": "1340670852838864462"
+  },
+  {
+    "item": "bedding",
+    "sentiment": "positive",
+    "listing_id": "1101549268515701297",
+    "review_id": "1340670852838864462"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "53797042",
+    "review_id": "1059385756492237887"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "1061164983482080009",
+    "review_id": "1170332563699324743"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "4991490",
+    "review_id": "1371152651507762956"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "793433538025875867",
+    "review_id": "1249369529190013973"
+  },
+  {
+    "item": "iron",
+    "sentiment": "negative",
+    "listing_id": "987125204853926910",
+    "review_id": "1294210027032023017"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1327078791608246293",
+    "review_id": "1410951904282941623"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1327078791608246293",
+    "review_id": "1410951904282941623"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "1369516603741665513",
+    "review_id": "1440652442834784286"
+  },
+  {
+    "item": "lazer",
+    "sentiment": "neutral",
+    "listing_id": "1070910114559432658",
+    "review_id": "1252197346336711372"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1048574305820763311",
+    "review_id": "1395789388559947987"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "47286347",
+    "review_id": "1346452855735974488"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "45638058",
+    "review_id": "1380555424462257160"
+  },
+  {
+    "item": "ac",
+    "sentiment": "negative",
+    "listing_id": "50769247",
+    "review_id": "1095014283122062976"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "positive",
+    "listing_id": "853555204696666938",
+    "review_id": "1344239904597282879"
+  },
+  {
+    "item": "bed",
+    "sentiment": "positive",
+    "listing_id": "853555204696666938",
+    "review_id": "1344239904597282879"
+  },
+  {
+    "item": "supermarket",
+    "sentiment": "positive",
+    "listing_id": "649551997056090460",
+    "review_id": "1150038784731003586"
+  },
+  {
+    "item": "metro",
+    "sentiment": "positive",
+    "listing_id": "649551997056090460",
+    "review_id": "1150038784731003586"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "1073939469790754214",
+    "review_id": "1366771470653658068"
+  },
+  {
+    "item": "shopping",
+    "sentiment": "positive",
+    "listing_id": "1073939469790754214",
+    "review_id": "1366771470653658068"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "positive",
+    "listing_id": "624069873590659559",
+    "review_id": "1174667286509841344"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "1005760627133044646",
+    "review_id": "1305909126685650004"
+  },
+  {
+    "item": "comfortable",
+    "sentiment": "positive",
+    "listing_id": "1005760627133044646",
+    "review_id": "1305909126685650004"
+  },
+  {
+    "item": "equipped",
+    "sentiment": "positive",
+    "listing_id": "1005760627133044646",
+    "review_id": "1305909126685650004"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "41032456",
+    "review_id": "1171794464510307810"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "44233262",
+    "review_id": "1097798047415411528"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "50896770",
+    "review_id": "1105124984151959414"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "720150108128628282",
+    "review_id": "1070335006362999690"
+  },
+  {
+    "item": "restaurants",
+    "sentiment": "positive",
+    "listing_id": "720150108128628282",
+    "review_id": "1070335006362999690"
+  },
+  {
+    "item": "bed",
+    "sentiment": "positive",
+    "listing_id": "934618408752072865",
+    "review_id": "1250048555526235500"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "1154441917521678961",
+    "review_id": "1449320964613975009"
+  },
+  {
+    "item": "equipped",
+    "sentiment": "positive",
+    "listing_id": "782737950549019519",
+    "review_id": "1125452317353163662"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "25235290",
+    "review_id": "1379800356389918551"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "32382670",
+    "review_id": "1297211911449149708"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "8961053",
+    "review_id": "1386288507406003461"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "22709688",
+    "review_id": "1118865751043491791"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "53731982",
+    "review_id": "1302263616024047241"
+  },
+  {
+    "item": "view",
+    "sentiment": "neutral",
+    "listing_id": "802896802632730501",
+    "review_id": "1086275460568324168"
+  },
+  {
+    "item": "restaurants",
+    "sentiment": "neutral",
+    "listing_id": "826062131287941326",
+    "review_id": "1094991109736472008"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "624069873590659559",
+    "review_id": "1179037136120011800"
+  },
+  {
+    "item": "gym",
+    "sentiment": "neutral",
+    "listing_id": "1339250966714750043",
+    "review_id": "1378360742920055949"
+  },
+  {
+    "item": "restaurants",
+    "sentiment": "neutral",
+    "listing_id": "918121103176049705",
+    "review_id": "1078955559066045996"
+  },
+  {
+    "item": "equipped",
+    "sentiment": "neutral",
+    "listing_id": "1313126227998336173",
+    "review_id": "1360995806585106308"
+  },
+  {
+    "item": "equipped",
+    "sentiment": "neutral",
+    "listing_id": "30131285",
+    "review_id": "1060839946656803933"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "30131285",
+    "review_id": "1060839946656803933"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1020194473125366188",
+    "review_id": "1404417441955088218"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1359361699011709561",
+    "review_id": "1418905671213063996"
+  },
+  {
+    "item": "utilities",
+    "sentiment": "neutral",
+    "listing_id": "53037382",
+    "review_id": "1259496504242041155"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "980567880892138382",
+    "review_id": "1308725714498686975"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "821198084644106078",
+    "review_id": "1139868855673040164"
+  },
+  {
+    "item": "refeiçõe",
+    "sentiment": "neutral",
+    "listing_id": "1215717",
+    "review_id": "1244927879667195135"
+  },
+  {
+    "item": "mercado",
+    "sentiment": "neutral",
+    "listing_id": "828818387227672499",
+    "review_id": "1365337298164612539"
+  },
+  {
+    "item": "prédio",
+    "sentiment": "neutral",
+    "listing_id": "13465658",
+    "review_id": "1430568465365509873"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "53797042",
+    "review_id": "1230534559351408496"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "53797042",
+    "review_id": "1230534559351408496"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "positive",
+    "listing_id": "40130606",
+    "review_id": "1347921084153088483"
+  },
+  {
+    "item": "AC",
+    "sentiment": "negative",
+    "listing_id": "13465658",
+    "review_id": "1353729313349074343"
+  },
+  {
+    "item": "parking",
+    "sentiment": "positive",
+    "listing_id": "694037012894655121",
+    "review_id": "1292083754865931344"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "694037012894655121",
+    "review_id": "1292083754865931344"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "1318815086099575810",
+    "review_id": "1339195642346199116"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "923409",
+    "review_id": "1171004994298193126"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "54159392",
+    "review_id": "1301496550943281452"
+  },
+  {
+    "item": "security",
+    "sentiment": "positive",
+    "listing_id": "1166034782635436230",
+    "review_id": "1279793679875111734"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "12956065",
+    "review_id": "1171734926959939488"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "12956065",
+    "review_id": "1171734926959939488"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "24310818",
+    "review_id": "1219637656856031420"
+  },
+  {
+    "item": "pool",
+    "sentiment": "neutral",
+    "listing_id": "739862491931356054",
+    "review_id": "1284836526637091036"
+  },
+  {
+    "item": "pool",
+    "sentiment": "neutral",
+    "listing_id": "50443732",
+    "review_id": "1076875843455523133"
+  },
+  {
+    "item": "24-hour concierge",
+    "sentiment": "neutral",
+    "listing_id": "686913684112519572",
+    "review_id": "1353670504919769498"
+  },
+  {
+    "item": "all amenities",
+    "sentiment": "neutral",
+    "listing_id": "1057398537262932972",
+    "review_id": "1169546592875039351"
+  },
+  {
+    "item": "fully equipped",
+    "sentiment": "neutral",
+    "listing_id": "548446291687313327",
+    "review_id": "1129067057103566567"
+  },
+  {
+    "item": "everything",
+    "sentiment": "neutral",
+    "listing_id": "548446291687313327",
+    "review_id": "1129067057103566567"
+  },
+  {
+    "item": "comfortable",
+    "sentiment": "neutral",
+    "listing_id": "1122652626317347996",
+    "review_id": "1326195518953831440"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "32382670",
+    "review_id": "1307309082807460708"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "889201949953689138",
+    "review_id": "1139896934456732217"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "52803165",
+    "review_id": "1424061018122388395"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "1154441917521678961",
+    "review_id": "1266722784160918462"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "neutral",
+    "listing_id": "636149400384798670",
+    "review_id": "1223299715738708924"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "1283515173333887284",
+    "review_id": "1378367692877866511"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "44233262",
+    "review_id": "1160969036080678804"
+  },
+  {
+    "item": "pool",
+    "sentiment": "positive",
+    "listing_id": "750048847321006136",
+    "review_id": "1118857342084191742"
+  },
+  {
+    "item": "location",
+    "sentiment": "positive",
+    "listing_id": "750048847321006136",
+    "review_id": "1118857342084191742"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "900676457210746325",
+    "review_id": "1400773438656231890"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "positive",
+    "listing_id": "1040541831469291076",
+    "review_id": "1330528582085472475"
+  },
+  {
+    "item": "private accommodation",
+    "sentiment": "neutral",
+    "listing_id": "584034938955469245",
+    "review_id": "1426883380614263052"
+  },
+  {
+    "item": "super seguro",
+    "sentiment": "neutral",
+    "listing_id": "54024081",
+    "review_id": "1334148548114407739"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "817077326439570880",
+    "review_id": "1365258351377491431"
+  },
+  {
+    "item": "pool",
+    "sentiment": "negative",
+    "listing_id": "6099907",
+    "review_id": "1208009750039603824"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "13604842",
+    "review_id": "1060113121985333243"
+  },
+  {
+    "item": "24-hour front desk",
+    "sentiment": "neutral",
+    "listing_id": "1040665244788418078",
+    "review_id": "1308035252282302688"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "1040665244788418078",
+    "review_id": "1308035252282302688"
+  },
+  {
+    "item": "new",
+    "sentiment": "neutral",
+    "listing_id": "1040665244788418078",
+    "review_id": "1308035252282302688"
+  },
+  {
+    "item": "linens",
+    "sentiment": "neutral",
+    "listing_id": "1040665244788418078",
+    "review_id": "1308035252282302688"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "31903130",
+    "review_id": "1164518257383104627"
+  },
+  {
+    "item": "waters",
+    "sentiment": "positive",
+    "listing_id": "20582977",
+    "review_id": "1352991496474382905"
+  },
+  {
+    "item": "tea",
+    "sentiment": "positive",
+    "listing_id": "20582977",
+    "review_id": "1352991496474382905"
+  },
+  {
+    "item": "coffee",
+    "sentiment": "positive",
+    "listing_id": "20582977",
+    "review_id": "1352991496474382905"
+  },
+  {
+    "item": "chocolate",
+    "sentiment": "positive",
+    "listing_id": "20582977",
+    "review_id": "1352991496474382905"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1005760627133044646",
+    "review_id": "1105091680135359732"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "625003654261726623",
+    "review_id": "1339187482153491529"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "neutral",
+    "listing_id": "1040628014079518903",
+    "review_id": "1368931800234890267"
+  },
+  {
+    "item": "complete",
+    "sentiment": "neutral",
+    "listing_id": "52324323",
+    "review_id": "1145022079175555267"
+  },
+  {
+    "item": "nespresso-machine",
+    "sentiment": "neutral",
+    "listing_id": "894016373717262323",
+    "review_id": "1078956510980636557"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "neutral",
+    "listing_id": "1057205313912511269",
+    "review_id": "1200774687974078177"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "neutral",
+    "listing_id": "708698211966815661",
+    "review_id": "1325453791368761281"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "neutral",
+    "listing_id": "752303267676843943",
+    "review_id": "1230504200809579918"
+  },
+  {
+    "item": "safe",
+    "sentiment": "neutral",
+    "listing_id": "752303267676843943",
+    "review_id": "1230504200809579918"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "neutral",
+    "listing_id": "563176267152777179",
+    "review_id": "1091320921776276686"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "52470694",
+    "review_id": "1276209004354382343"
+  },
+  {
+    "item": "airy",
+    "sentiment": "neutral",
+    "listing_id": "52470694",
+    "review_id": "1276209004354382343"
+  },
+  {
+    "item": "accommodations",
+    "sentiment": "neutral",
+    "listing_id": "9625523",
+    "review_id": "1290649544619300848"
+  },
+  {
+    "item": "impeccable",
+    "sentiment": "neutral",
+    "listing_id": "838243296456585543",
+    "review_id": "1079757896173599783"
+  },
+  {
+    "item": "exactly as described",
+    "sentiment": "neutral",
+    "listing_id": "858219293594540086",
+    "review_id": "1368898163077618276"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "762399882018080017",
+    "review_id": "1363080139495307619"
+  },
+  {
+    "item": "bedding",
+    "sentiment": "neutral",
+    "listing_id": "1318383880040737428",
+    "review_id": "1351558579086852124"
+  },
+  {
+    "item": "appliances",
+    "sentiment": "neutral",
+    "listing_id": "918121103176049705",
+    "review_id": "1124704593496383565"
+  },
+  {
+    "item": "flexible check-out",
+    "sentiment": "neutral",
+    "listing_id": "53492685",
+    "review_id": "1274011154314384840"
+  },
+  {
+    "item": "functional apartment",
+    "sentiment": "neutral",
+    "listing_id": "698679726224949716",
+    "review_id": "1166003956781584722"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "20266851",
+    "review_id": "1113099497546352088"
+  },
+  {
+    "item": "renovated",
+    "sentiment": "neutral",
+    "listing_id": "836748813801113044",
+    "review_id": "1236338589712678548"
+  },
+  {
+    "item": "functional",
+    "sentiment": "neutral",
+    "listing_id": "34203892",
+    "review_id": "1302963613953797214"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "50268526",
+    "review_id": "1333379662511205060"
+  },
+  {
+    "item": "metro station",
+    "sentiment": "positive",
+    "listing_id": "9863483",
+    "review_id": "1383462301030684619"
+  },
+  {
+    "item": "high ceilings",
+    "sentiment": "positive",
+    "listing_id": "615063802366237157",
+    "review_id": "1308069139193340058"
+  },
+  {
+    "item": "metro",
+    "sentiment": "positive",
+    "listing_id": "649551997056090460",
+    "review_id": "1100078431724659876"
+  },
+  {
+    "item": "restaurant",
+    "sentiment": "positive",
+    "listing_id": "649551997056090460",
+    "review_id": "1100078431724659876"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "29990757",
+    "review_id": "1316065883840888108"
+  },
+  {
+    "item": "supermarket",
+    "sentiment": "positive",
+    "listing_id": "32382670",
+    "review_id": "1321800828762772223"
+  },
+  {
+    "item": "bakery",
+    "sentiment": "positive",
+    "listing_id": "32382670",
+    "review_id": "1321800828762772223"
+  },
+  {
+    "item": "pharmacy",
+    "sentiment": "positive",
+    "listing_id": "32382670",
+    "review_id": "1321800828762772223"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "961838483775190762",
+    "review_id": "1349312399456416057"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "961838483775190762",
+    "review_id": "1349312399456416057"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "positive",
+    "listing_id": "40943214",
+    "review_id": "1294324083529370998"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "985618811414454351",
+    "review_id": "1324024582164054171"
+  },
+  {
+    "item": "noise",
+    "sentiment": "neutral",
+    "listing_id": "1307340891190895269",
+    "review_id": "1332725785169845384"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "46986585",
+    "review_id": "1091307984195254927"
+  },
+  {
+    "item": "restaurants",
+    "sentiment": "neutral",
+    "listing_id": "46986585",
+    "review_id": "1091307984195254927"
+  },
+  {
+    "item": "pool",
+    "sentiment": "neutral",
+    "listing_id": "45638058",
+    "review_id": "1082579074521743848"
+  },
+  {
+    "item": "internet",
+    "sentiment": "neutral",
+    "listing_id": "1053428487620174682",
+    "review_id": "1366053954080112774"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "46986585",
+    "review_id": "1374676279729895604"
+  },
+  {
+    "item": "beach",
+    "sentiment": "neutral",
+    "listing_id": "821198084644106078",
+    "review_id": "1317433871226992756"
+  },
+  {
+    "item": "beach",
+    "sentiment": "positive",
+    "listing_id": "1074511896897271969",
+    "review_id": "1228305998176795125"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "1230303268358628223",
+    "review_id": "1352932666270231986"
+  },
+  {
+    "item": "cleaning",
+    "sentiment": "positive",
+    "listing_id": "13604842",
+    "review_id": "1343513628058916624"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1034300737925438463",
+    "review_id": "1255819834641098963"
+  },
+  {
+    "item": "everything you need",
+    "sentiment": "neutral",
+    "listing_id": "23024700",
+    "review_id": "1257298327983644714"
+  },
+  {
+    "item": "spacious",
+    "sentiment": "neutral",
+    "listing_id": "739862491931356054",
+    "review_id": "1085575445231832324"
+  },
+  {
+    "item": "everything",
+    "sentiment": "neutral",
+    "listing_id": "739862491931356054",
+    "review_id": "1085575445231832324"
+  },
+  {
+    "item": "elevator",
+    "sentiment": "neutral",
+    "listing_id": "546599184319231352",
+    "review_id": "1184121716592600504"
+  },
+  {
+    "item": "new equipment",
+    "sentiment": "neutral",
+    "listing_id": "1349188331036642809",
+    "review_id": "1442080671561955321"
+  },
+  {
+    "item": "bedding and towels",
+    "sentiment": "neutral",
+    "listing_id": "1349188331036642809",
+    "review_id": "1442080671561955321"
+  },
+  {
+    "item": "hard keys",
+    "sentiment": "negative",
+    "listing_id": "1085548047088232296",
+    "review_id": "1244733960010555853"
+  },
+  {
+    "item": "clean",
+    "sentiment": "positive",
+    "listing_id": "10740337",
+    "review_id": "1303022423232996506"
+  },
+  {
+    "item": "secure",
+    "sentiment": "positive",
+    "listing_id": "10740337",
+    "review_id": "1303022423232996506"
+  },
+  {
+    "item": "cozy",
+    "sentiment": "positive",
+    "listing_id": "2155838",
+    "review_id": "1068188983566756547"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "782737950549019519",
+    "review_id": "1073967044352530851"
+  },
+  {
+    "item": "ac",
+    "sentiment": "positive",
+    "listing_id": "14729485",
+    "review_id": "1370400262034548285"
+  },
+  {
+    "item": "bike",
+    "sentiment": "positive",
+    "listing_id": "53988363",
+    "review_id": "1439963856438826778"
+  },
+  {
+    "item": "view",
+    "sentiment": "positive",
+    "listing_id": "31317257",
+    "review_id": "1128966139439783195"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "546599184319231352",
+    "review_id": "1306599380373273121"
+  },
+  {
+    "item": "supermarket",
+    "sentiment": "neutral",
+    "listing_id": "1203819200722916243",
+    "review_id": "1396404736122010990"
+  },
+  {
+    "item": "groceries",
+    "sentiment": "neutral",
+    "listing_id": "1289205500104473384",
+    "review_id": "1381950142078026975"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "neutral",
+    "listing_id": "1353568394970923626",
+    "review_id": "1373313548801181039"
+  },
+  {
+    "item": "gym",
+    "sentiment": "neutral",
+    "listing_id": "1353568394970923626",
+    "review_id": "1373313548801181039"
+  },
+  {
+    "item": "everything",
+    "sentiment": "neutral",
+    "listing_id": "5030949",
+    "review_id": "1355122485603109245"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "neutral",
+    "listing_id": "1018758710199629618",
+    "review_id": "1203629049011399959"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1303113842496058105",
+    "review_id": "1439979323864754330"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "54036277",
+    "review_id": "1354384424800088769"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "54036277",
+    "review_id": "1354384424800088769"
+  },
+  {
+    "item": "supermarket",
+    "sentiment": "neutral",
+    "listing_id": "814607569389282394",
+    "review_id": "1073225894070504797"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "neutral",
+    "listing_id": "791779135440344735",
+    "review_id": "1170342284950359036"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "neutral",
+    "listing_id": "791779135440344735",
+    "review_id": "1170342284950359036"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "neutral",
+    "listing_id": "1364101608901265143",
+    "review_id": "1415365273891594951"
+  },
+  {
+    "item": "bed",
+    "sentiment": "neutral",
+    "listing_id": "1364101608901265143",
+    "review_id": "1415365273891594951"
+  },
+  {
+    "item": "amenities",
+    "sentiment": "neutral",
+    "listing_id": "47020137",
+    "review_id": "1416799236504923799"
+  },
+  {
+    "item": "items",
+    "sentiment": "neutral",
+    "listing_id": "762391114339483964",
+    "review_id": "1304464661881431227"
+  },
+  {
+    "item": "items",
+    "sentiment": "neutral",
+    "listing_id": "46692895",
+    "review_id": "1363064659545625881"
+  },
+  {
+    "item": "fridge",
+    "sentiment": "neutral",
+    "listing_id": "1084649731420527057",
+    "review_id": "1255884849118275044"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "52803165",
+    "review_id": "1204368225093704490"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1163688785873250265",
+    "review_id": "1359461735321773562"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1211496452397265877",
+    "review_id": "1274712777994129938"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1211496452397265877",
+    "review_id": "1274712777994129938"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "767187984456969074",
+    "review_id": "1124710837527464298"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "767187984456969074",
+    "review_id": "1124710837527464298"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "positive",
+    "listing_id": "782503294558445039",
+    "review_id": "1206565118880708096"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1100645471783963727",
+    "review_id": "1371079983136361218"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "694037012894655121",
+    "review_id": "1343589821199571679"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "33194252",
+    "review_id": "1234145297659284399"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "33194252",
+    "review_id": "1234145297659284399"
+  },
+  {
+    "item": "jacuzzi",
+    "sentiment": "positive",
+    "listing_id": "1052921559180982656",
+    "review_id": "1235521939764890659"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1273964440017317575",
+    "review_id": "1437730039124684575"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1052921559180982656",
+    "review_id": "1235521939764890659"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "1364733062494771623",
+    "review_id": "1414563260391978142"
+  },
+  {
+    "item": "view",
+    "sentiment": "positive",
+    "listing_id": "50326489",
+    "review_id": "1078989911226602948"
+  },
+  {
+    "item": "dishes",
+    "sentiment": "positive",
+    "listing_id": "1334227268393242946",
+    "review_id": "1405138664015582755"
+  },
+  {
+    "item": "linens",
+    "sentiment": "positive",
+    "listing_id": "1334227268393242946",
+    "review_id": "1405138664015582755"
+  },
+  {
+    "item": "24-hour reception",
+    "sentiment": "neutral",
+    "listing_id": "1080422211144774282",
+    "review_id": "1173275013490134241"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "807788671603227282",
+    "review_id": "1060213276098690957"
+  },
+  {
+    "item": "quartos com cortinas",
+    "sentiment": "positive",
+    "listing_id": "983583546315647430",
+    "review_id": "1119593384028745266"
+  },
+  {
+    "item": "chuveiro",
+    "sentiment": "negative",
+    "listing_id": "814607569389282394",
+    "review_id": "1246488294704304528"
+  },
+  {
+    "item": "chuveiro",
+    "sentiment": "negative",
+    "listing_id": "1142065463987772849",
+    "review_id": "1165923728410673640"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "52455998",
+    "review_id": "1236231504862491335"
+  },
+  {
+    "item": "walking distance",
+    "sentiment": "neutral",
+    "listing_id": "1312610499038298813",
+    "review_id": "1321133625636124230"
+  },
+  {
+    "item": "metro",
+    "sentiment": "neutral",
+    "listing_id": "958716221431254520",
+    "review_id": "1260153619521849288"
+  },
+  {
+    "item": "gym",
+    "sentiment": "neutral",
+    "listing_id": "958716221431254520",
+    "review_id": "1260153619521849288"
+  },
+  {
+    "item": "flat",
+    "sentiment": "neutral",
+    "listing_id": "696350332547473482",
+    "review_id": "1090625569689910191"
+  },
+  {
+    "item": "pool",
+    "sentiment": "neutral",
+    "listing_id": "37417060",
+    "review_id": "1180538177465785102"
+  },
+  {
+    "item": "balcony",
+    "sentiment": "neutral",
+    "listing_id": "33826997",
+    "review_id": "1382708513735169277"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "neutral",
+    "listing_id": "51082059",
+    "review_id": "1416037827365220839"
+  },
+  {
+    "item": "water pressure",
+    "sentiment": "neutral",
+    "listing_id": "615063802366237157",
+    "review_id": "1438487320262677333"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1053454808199149289",
+    "review_id": "1094991080261691212"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "53202246",
+    "review_id": "1310995227216276064"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "11152355",
+    "review_id": "1099294558194601952"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "negative",
+    "listing_id": "686913684112519572",
+    "review_id": "1207234836937154454"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "770299882466039094",
+    "review_id": "1339870016675781397"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "968116550068983988",
+    "review_id": "1357267415639592888"
+  },
+  {
+    "item": "wifi",
+    "sentiment": "positive",
+    "listing_id": "1130671435647941151",
+    "review_id": "1270344242177080788"
+  },
+  {
+    "item": "kitchen",
+    "sentiment": "positive",
+    "listing_id": "9583474",
+    "review_id": "1251534185093961598"
+  },
+  {
+    "item": "bathroom",
+    "sentiment": "positive",
+    "listing_id": "9583474",
+    "review_id": "1251534185093961598"
+  },
+  {
+    "item": "lighting",
+    "sentiment": "positive",
+    "listing_id": "9583474",
+    "review_id": "1251534185093961598"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "1335040663592284246",
+    "review_id": "1392871042653442938"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "neutral",
+    "listing_id": "1295834994335547599",
+    "review_id": "1307372509727996951"
+  },
+  {
+    "item": "clean",
+    "sentiment": "neutral",
+    "listing_id": "1295834994335547599",
+    "review_id": "1307372509727996951"
+  },
+  {
+    "item": "organized",
+    "sentiment": "neutral",
+    "listing_id": "1295834994335547599",
+    "review_id": "1307372509727996951"
+  },
+  {
+    "item": "everything you need",
+    "sentiment": "neutral",
+    "listing_id": "985618811414454351",
+    "review_id": "1279733796019935555"
+  },
+  {
+    "item": "well-appointed",
+    "sentiment": "positive",
+    "listing_id": "567482239197737240",
+    "review_id": "1074620955256750660"
+  },
+  {
+    "item": "well-equipped",
+    "sentiment": "positive",
+    "listing_id": "1083484606794092149",
+    "review_id": "1271832901453586985"
+  },
+  {
+    "item": "air conditioning",
+    "sentiment": "positive",
+    "listing_id": "15720762",
+    "review_id": "1349387152390043375"
+  }
+]
